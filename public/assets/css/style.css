@@ -1,0 +1,60 @@
+/*bootstrap over-rides*/
+
+.container{
+	margin: 0px;
+	padding: 10px;
+	width: 70%;
+}
+
+.row , .panel,  .panel-default{
+	margin: 0px;
+	padding: 10px;
+	width: 100%;
+}
+.jumbotron{
+	margin: 0px;
+	padding: 30px;
+	width: 100%;
+}
+
+.banner{
+	/*background-image: url(../images/NYT_Logo.png);*/
+	text-align: center;
+}
+
+
+body{
+}
+
+#app{
+	background-image: url(../images/newspaper.jpg);
+	display: flex;
+	justify-content: center;
+	background-size: 100%;
+}
+
+h1{
+	font-size: 400%;
+	margin: 0px 0px 0px 0px;
+	font-family: 'Rye', cursive;
+}
+
+p{
+	font-family: 'IM Fell English SC', serif;
+}
+
+h3{
+	font-family: 'IM Fell English SC', serif;
+}
+
+input{
+	font-family: 'IM Fell English SC', serif;
+}
+
+h4{
+	font-family: 'IM Fell English SC', serif;
+}
+
+button{
+	font-family: 'IM Fell English SC', serif;
+}
